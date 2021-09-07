@@ -363,7 +363,7 @@ nav a:hover {
 
 nav li {
     display: inline-block;
-    margin-left: 50px;
+    margin-left: 0px;
 }
 
 .brand, .nav-list-container {
