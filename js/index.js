@@ -8,7 +8,7 @@ function initMap() {
   });
 }
 
-$('nav.btn').click(function(){
+$('#nav.button').click(function(){
     $("#container").toggleClass('nav-list-container');
 })
 
