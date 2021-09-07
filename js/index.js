@@ -19,6 +19,6 @@ function myFunction(x) {
   }
 }
 
-var x = window.matchMedia("(min-width: 700px)")
+var x = window.matchMedia("(min-width: 900px)")
 myFunction(x)
 x.addListener(myFunction)
